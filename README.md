@@ -34,8 +34,3 @@ This project involves a Telegram bot designed to broadcast messages to a large n
 - `openpyxl`
 - PostgreSQL Database
 - Telegram Bot Token
-
-### Configuration
-
-- **Database Configuration**: Set your database URI in the Flask app settings or through an environment variable.
-- **Rate Limiting**: Adjust the rate-limiting settings in the `MyRateLimiter` class as per your requirements.
