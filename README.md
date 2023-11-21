@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project involves a Telegram bot designed to broadcast messages to a large number of users. The bot interacts with a PostgreSQL database to retrieve user information and uses the `python-telegram-bot` library to send messages. The bot also features rate limiting to comply with Telegram's API limits.
+This project involves a Telegram bot designed to broadcast messages to a large number of users. The bot interacts with a PostgreSQL database to retrieve user information and uses the `python-telegram-bot` library to send messages. The bot also features rate limiting to comply with Telegram's API limits. The project has since been adapted to become the Republic of Singapore Navy's internal communications infrastructure, delivering over 20k messages on a weekly basis.
 
 <p float="center">
 <img src="https://github.com/piersonphua/Telegram-Broadcast-Bot/blob/main/images/broadcast_bot.png?raw=true" width=100% height=100%>
